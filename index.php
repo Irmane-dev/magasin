@@ -1,4 +1,4 @@
-<?php
+  <?php
 session_start();
 include("exemple15.2.php");
 

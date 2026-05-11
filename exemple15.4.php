@@ -10,7 +10,7 @@
 </head>
 <body>
 <?php
-include("exemple15-2.php");
+include("exemple15.2.php");
 $idcom = connexobjet("essaiBDD", "myparam");
 
 // Insertion si formulaire soumis
